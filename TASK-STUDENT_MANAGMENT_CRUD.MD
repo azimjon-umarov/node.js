@@ -159,7 +159,3 @@ Quyidagi xususiyatlarga ega:
 - **Ma’lumotlar vaqtincha xotirada (array ichida) saqlanishi mumkin.** Agar kerak bo‘lsa, keyinchalik `json file` yoki `database` bilan almashtirish mumkin.
 - Har bir requestda **to‘g‘ri status codeni** qaytaring (200, 201, 400, 404, 500).
 - `POST` va `PUT` so‘rovlarida `classname` va `coursename` qiymatlarini tekshirishni unutmang.
-
----
-
-Agar xohlasangiz, bu API uchun tayyor kod namunasi yoki loyiha tuzilmasini ham tayyorlab bera olaman. Tayyor holatda kerakmi?
