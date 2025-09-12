@@ -4,6 +4,8 @@
 
 Microservice — bu **bir butun dastur (monolith)** o‘rniga **bir nechta mustaqil, kichik, alohida vazifani bajaruvchi xizmatlar (service)** yig‘indisidir.
 
+https://www.youtube.com/watch?v=RuRyPxEWGTg
+
 Har bir mikroxizmat:
 
 * O‘zining mustaqil kodi, ma’lumotlar bazasi, API’siga ega bo‘ladi.
