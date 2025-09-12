@@ -183,3 +183,5 @@ export async function sendOderOTPMSViaEskizService(phone_number: string, message
 }
 ````
 
+Eskiz.uz interfaysi bilan ishlash bo'yicha misollar - https://www.youtube.com/results?search_query=eskiz+uz+sms+yuborish+backend
+
